@@ -1,6 +1,6 @@
 #language: pt
 
-Funcionalidade: Aprendendo o verbo GET
+Funcionalidade: Api enumerations 
 
 Como usuário
 Quero acessar a api enumerations 

@@ -1,3 +1,3 @@
 Before do 
-    @uri = 'https://portal.vr.com.br'
+    @url = 'https://portal.vr.com.br'
   end

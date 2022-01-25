@@ -1,5 +1,5 @@
 Dado('realizo chamada na api enumerations') do
-    @get_enumerations = HTTParty.get (@uri + '/api-web/comum/enumerations/VRPAT')
+    @get_enumerations = HTTParty.get (@url + '/api-web/comum/enumerations/VRPAT')
     @body = @get_enumerations.parsed_response
 end
 
